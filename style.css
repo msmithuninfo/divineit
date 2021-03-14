@@ -1,0 +1,151 @@
+.bg-black{ background-color: rgba(14,14,14,1.00)}
+.logo {
+    padding: 0 0!important;
+    width: 175px;
+}
+
+/*Login Form*/
+.modals .login-form {
+    width: 340px;
+    margin: 30px auto;
+    font-size: 15px;
+}
+.modals .login-form form {
+    margin-bottom: 15px;
+    background: #f7f7f7;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    padding: 30px;
+}
+.modals .login-form h2 {
+    margin: 0 0 15px;
+}
+.modals .login-form .hint-text {
+    color: #777;
+    padding-bottom: 15px;
+    text-align: center;
+    font-size: 13px; 
+}
+.modals .form-control, .btn {
+    min-height: 38px;
+    border-radius: 2px;
+}
+.modals .login-btn {        
+    font-size: 15px;
+    font-weight: bold;
+}
+.modals .or-seperator {
+    margin: 20px 0 10px;
+    text-align: center;
+    border-top: 1px solid #ccc;
+}
+.modals .or-seperator i {
+    padding: 0 10px;
+    background: #f7f7f7;
+    position: relative;
+    top: -11px;
+    z-index: 1;
+}
+.modals .social-btn .btn {
+    margin: 10px 0;
+    font-size: 15px;
+    text-align: left; 
+    line-height: 24px;       
+}
+.modals .social-btn .btn i {
+    float: left;
+    margin: 4px 15px  0 5px;
+    min-width: 15px;
+}
+.modals .input-group-addon .fa{
+    font-size: 18px;
+}
+/*End Login form*/
+form.form-inline.my-2.my-lg-0.formbtn {
+    position: relative;
+}
+
+button.btn.btn-outline-success.my-2.my-sm-0.formbtn2 {
+    position: absolute;
+    right: 8px;
+    top: 0;
+    border: none;
+    color: unset;
+}
+button.btn.btn-outline-success.my-2.my-sm-0.formbtn2:hover{
+	background: unset;
+	color: unset;
+}
+.abc{
+	width: 440px;
+}
+.carousel-inner img{
+height: 500px;
+}
+.hehe{
+	text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-family: sans-serif;
+    color: rgba(31, 52, 122, 1);
+    text-align: center;
+    font-size: 30px;
+    line-height: 35px;
+    font-weight: 500;
+}
+.card{
+	margin-top: 25px;
+	background: #FFFFFF;
+}
+
+.bagclo{
+	background: #F1F1F1;
+	    padding: 0px 80px;
+    box-sizing: border-box;
+}
+
+.bagclo .card img{
+	height: 250px;
+}
+
+.card-title{
+	font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.service {
+    background: #000;
+    margin-top: 20px;
+}
+.text-center {
+    text-align: center!important;
+}
+.text-light {
+    color: #f8f9fa!important;
+}
+.service .one {
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 2rem 1.5rem;
+    border-radius: 7px;
+}
+
+.service img.img-fluid.w-75 {
+    width: 100%;
+    height: 100px;
+}
+
+body > footer{
+	background: #111!important;
+}
+body > footer > ul.list-unstyled.list-inline.text-center.py-2 > li:nth-child(2) > a{
+	background: #00BF85;
+	font-weight: 600;
+	padding: 0.4rem 1.4rem;
+	border-radius: 30px;
+	border: none;
+}
